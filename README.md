@@ -110,7 +110,7 @@ I focus on writing **clean, maintainable code** and building systems that can ev
   <a href="https://x.com/HasibulNafiz">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://www.linkedin.com/in/0nafiz">
+  <a href="https://www.linkedin.com/in/nafiz-hasibul">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hasibulnafiz.dev@gmail.com">
